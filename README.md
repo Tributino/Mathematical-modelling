@@ -4,7 +4,20 @@
 
 ## About this Project
 
-The purpose of this project is to present the Mathematical Modelling, the process of developing a mathematical model. Mathematics is a precise language that helps us formulate ideas and identify underlying assumptions. In other words, a mathematical model is an excellent tool to explain a system, study the effects of different components, and make predictions about behaviour.
+The purpose of this repository is to present some Mathematical and Computational Modelling projects. Different programming languages will be use in different Science problems. The idea is to explore numerical and discrete units programming while different problems are simulated.
+
+To follow up the projects presented in this repo you will need to install C compiler such as gcc or icc if your machine does not have in-built, as well fortran (e.g. gfortran) and python.
+
+Additional softwares will be use, for instance, VMD (Visual Molecular Dynamics) is used to simulated particles throug Molecular Dynamics / Langevin Equation and Brownian Motion. As new projects with additional softwares are added in this repo, readme.md will be updated.
+
+Projects explored here are very important helping to develop and improve Math/Physics concepts as well master programming skills. Topics that can be considered in these scenarios, for instance are:
+
+- Random number generators;
+- Molecular Dynamics;
+- Parallelism through Langevin Particles Motion;
+- Forecast in industries problems;
+- Agent-based models;
+- And more...
 
 
 ## Authors
