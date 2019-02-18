@@ -12,6 +12,7 @@ Additional softwares will be use, for instance, VMD (Visual Molecular Dynamics) 
 
 Projects explored here are very important helping to develop and improve Math/Physics concepts as well master programming skills. Topics that can be considered in these scenarios, for instance are:
 
+- Euler Method;
 - Random number generators;
 - Molecular Dynamics;
 - Parallelism through Langevin Particles Motion;
